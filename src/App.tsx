@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router";
 import { BrowserRouter } from "react-router-dom";
-import { createTheme, GlobalStyles } from "@mui/material";
+import { createTheme, duration, GlobalStyles } from "@mui/material";
 import { green, purple } from "@mui/material/colors";
 import { ThemeProvider } from "@emotion/react";
 import CssBaseline from "@mui/material/CssBaseline";
